@@ -1,0 +1,23 @@
+.container{
+    /* padding: 2rem;  */
+   
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+}
+
+.sub_container{
+    background-color: #ab7bfc45;
+    background: rgb(96,175,19);
+    background: linear-gradient(40deg, rgba(97, 175, 19, 0.694) 35%, rgba(226, 170, 1, 0.626) 74%);
+    box-shadow: rgb(227, 253, 80) 0px 2px 8px 0px;
+    width: 80%;
+    padding: 2rem;
+    min-height: 70dvh;
+    border-radius: 10px;
+    color: black;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
